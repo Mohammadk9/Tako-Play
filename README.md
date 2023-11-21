@@ -7,7 +7,7 @@
 <h3 align ="center"> Please Do not put Tako-Play to Google PlayStore or Any other Store !! <h3/>
 
 ## Download App
-
+s
 - #### Android : [Download TakoPlay.apk](https://github.com/kaungsatthe1n/Tako-Play/releases/download/v1.5.1/TakoPlay-v1.5.1.apk)
 
 - #### IOS : _Coming soon ..._
